@@ -1,3 +1,6 @@
-header {}
-
-body {background-color: (#006994);}
+body {background-color: #006994;}
+h1 {text-align:center; color:#f0f8ff}
+h2 {font:bold;}
+.main-heading { 
+    color: red;}
+my-id {text-align: center; color:#f0f8ff; }
