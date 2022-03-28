@@ -28,11 +28,8 @@ function rating() {
   }
 
   document.write(output);
+}
 
-// }
-// function yourName() {
-//   let name = prompt("What is your silly fish name?");
-//   document.write("Your Silly Fish name is " + name + "fish");
-// }
-// yourName()
-
+yourName();
+guessNumber();
+rating();
